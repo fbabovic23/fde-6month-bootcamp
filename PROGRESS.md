@@ -90,4 +90,5 @@ Each project lives in its own repository. Paste the link when it exists.
 Format: `- **date (WxxDyy):** what I built · check that passed · gym: drill, hits/misses`
 
 - **2026-11-23:** Setup day: repo, tracker, Cursor rules, both Claude projects. W01D01 moves to Nov 24.
-- **2026-11-24 (W01D01):** 
+- 2026-11-24 | W01D01 | http_errors.sh: POSIX sh HTTP error-rate summary + fixtures | all 7 checks pass (shellcheck, sh/dash diff, empty, missing file → exit 2) | c1ad481 | 2 sessions
+- 2026-11-24 | W01D02 | skipped (stretch)
